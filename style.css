@@ -31,6 +31,11 @@ main{
     text-transform: lowercase;
 }
 
+:: placeholder {color: white;}
+    .text-area:focus {
+        outline:none;
+}
+
 .text-area:focus {
     outline: none;
 }
