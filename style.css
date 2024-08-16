@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url("/img//BG_ZOOM_ONE_ESP_\(1\)[1].png");
+    background-image: url("img//BG_ZOOM_ONE_ESP_\(1\)[1].png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ main{
 
 .mensaje{
     background: rgb(109, 186, 215);
-    background-image: url("/img/Muñeco.png");
+    background-image: url("img/Muñeco.png");
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
