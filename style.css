@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url("img//BG_ZOOM_ONE_ESP_\(1\)[1].png");
+    background-image: url("img/fondo.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,10 +31,10 @@ main{
     text-transform: lowercase;
 }
 
-:: placeholder {color: white;}
-    .text-area:focus {
-        outline:none;
-}
+::placeholder {color: white;}
+    .text-area:focus{
+        outline: none;
+    }
 
 .text-area:focus {
     outline: none;
